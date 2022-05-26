@@ -1,0 +1,16 @@
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\bin\Debug\net5.0\Exercicio.exe
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\bin\Debug\net5.0\Exercicio.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\bin\Debug\net5.0\Exercicio.runtimeconfig.json
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\bin\Debug\net5.0\Exercicio.runtimeconfig.dev.json
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\bin\Debug\net5.0\Exercicio.dll
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\bin\Debug\net5.0\ref\Exercicio.dll
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\bin\Debug\net5.0\Exercicio.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.dll
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\ref\Exercicio.dll
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\Nova pasta (2)\Exercicio - Semana 7\obj\Debug\net5.0\Exercicio.genruntimeconfig.cache
